@@ -1,0 +1,11 @@
+{
+  "name": "pihermes",
+  "label": "PiHermes",
+  "icon": "Mic",
+  "version": "0.1.0",
+  "tab": {
+    "path": "/pihermes",
+    "position": "after:skills"
+  },
+  "entry": "dist/index.js"
+}
